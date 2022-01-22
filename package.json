@@ -1,0 +1,28 @@
+{
+  "name": "cypress-e2e-testing",
+  "version": "1.0.0",
+  "description": "E2E Testing with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run" : "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thitoribeiro/cypress-e2e-testing.git"
+  },
+  "keywords": [
+    "cypress",
+    "e2e"
+  ],
+  "author": "Thito Ribeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thitoribeiro/cypress-e2e-testing/issues"
+  },
+  "homepage": "https://github.com/thitoribeiro/cypress-e2e-testing#readme",
+  "dependencies": {
+    "cypress": "^9.3.1",
+    "prettier": "^2.5.1"
+  }
+}
