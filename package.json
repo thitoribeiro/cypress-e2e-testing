@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/thitoribeiro/cypress-e2e-testing#readme",
   "dependencies": {
-    "cypress": "^9.3.1",
+    "cypress": "^8.7.0",
     "prettier": "^2.5.1"
   }
 }
